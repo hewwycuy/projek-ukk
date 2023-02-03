@@ -1,2 +1,2 @@
-# projek-ukk
-buat pelajaran
+# Projek Ujian Kompetensi Keahlian
+Tugas sekolah
